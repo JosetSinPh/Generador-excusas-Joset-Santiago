@@ -3,3 +3,14 @@
 body{
     background: white;
 }
+p{
+ font-weight: bold;
+}
+#excuse {
+  font-size: 30px;
+  font-weight: bold;
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
+}
